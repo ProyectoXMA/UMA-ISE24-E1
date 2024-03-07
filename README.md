@@ -3,7 +3,7 @@ This repository houses code for the group project related to the course "Introdu
 
 ## Team 1
 The team is composed of the following members:
-- Ricardo Juan Allit López
+- Ricardo Juan Allitt López
 - Manuel Barrios Moreno
 - Ángel Bayón Pazos
 - Muhammad Abdullah Sultán Sultán
