@@ -1,4 +1,4 @@
-# Software Engineering Project: Dragon Boat Race
+# Software Engineering Project: Dragon Boat Race.
 This repository houses code for the group project related to the course "Introduction to Software Engineering" taught at the University of Málaga, Spain.  
 
 ## Team 1
