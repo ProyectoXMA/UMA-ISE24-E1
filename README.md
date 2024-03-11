@@ -11,3 +11,4 @@ The team is composed of the following members:
 - Ángel Escaño López
 - Pablo Hormigo Jiménez
 - Diego Sicre Cortizo
+- Juan Torres Gómez
