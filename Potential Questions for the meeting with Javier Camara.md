@@ -31,3 +31,6 @@ you also can edit this document and send some juicy ass questions
 
 - liberar agua del barco (ronda de ritmo con teclas).
 - juego de memoria para poder salvarte.
+
+
+## EN LA CHARLA INTENTAREMOS PREGUNTAR POR ORDEN DE IMPORTANCIA Y DE MANERA ORDENADA
