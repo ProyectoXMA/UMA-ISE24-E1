@@ -1,5 +1,5 @@
 ## ACLARACION
-  El texto debe de no estar en modo imperativo, esto es solo un pequeño doc para las ideas, mas tarde pasaremos el oficial
+  Esto es solo un doc incompleto, mas tarde pasaremos el oficial aunque no está lejos del definitivo
 
 ## Functional requirements
 	//Functional requirements describe system capabilities (WHAT IT DOES)
