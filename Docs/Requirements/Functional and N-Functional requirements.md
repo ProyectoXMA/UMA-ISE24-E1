@@ -25,7 +25,7 @@
 		-As a game developer I want the game to execute at a flawless 30 fps in order for the experience to be more pleasant park.
 		-Low latency and keybinds -> As a game developer I want the controls to be responsive and accurate for the player to have a smooth experience.
 		-Avoiding system errors -> As a developer I want the code to be roboust and free of errors in order to provide the player a satisfactory experience.
-		-Difficulty -> As a developer I want the experience to be easy and simple at first but harder as the player advances through the levels in order to have an entertaining game for 		all publics but a challenging one for the adventurous.
+		-Difficulty -> As a developer I want the experience to be easy and simple at first but harder as the player advances through the levels in order to have an entertaining game for all publics but a challenging one for the adventurous.
 		-Java language -> As a developer I really really want soo badly to use the Java language, a modern, fast and non-repetitive  object oriented programming language, I am also forced.
 		-LIbraries -> (Por determinar: Juanillo usa libGDX)
  		-Collisions -> As a developer I want the game to have fair hit boxes in order for the game not be frustrating.
