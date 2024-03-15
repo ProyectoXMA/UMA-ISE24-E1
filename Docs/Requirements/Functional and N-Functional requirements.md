@@ -1,7 +1,7 @@
-##ACLARACION
+## ACLARACION
   El texto debe de no estar en modo imperativo, esto es solo un pequeño doc para las ideas, mas tarde pasaremos el oficial
 
-##Functional requirements
+## Functional requirements
 	//Functional requirements describe system capabilities (WHAT IT DOES)
 		-Iniciar el juego
 		-Controles del barco
@@ -25,7 +25,7 @@
 		-Implementar Simon dice como minijuego
 		-Implementar el movimiento de los obstáculos
 		-Crear todas las pantallas de carga
-##Non-Functional requirements
+## Non-Functional requirements
 	//Non-functional requirements describe system qualities (HOW IT DOES WHAT IT DOES)
 		-Ejecucion de programa a frames a partir de los cuales el cliente percibe movimiento fluido (30 fps)
 		-Tiempo de respuesta muy bajo
