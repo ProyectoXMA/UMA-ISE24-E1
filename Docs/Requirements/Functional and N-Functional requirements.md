@@ -4,11 +4,11 @@
 ## Functional requirements
 	//Functional requirements describe system capabilities (WHAT IT DOES)
 		-Initialize the game
-		-Boat control -> As a player I want to be able to configure my own keybinds and I want the controls to be responsive with low latency, in order to have a more personalized and 		pleasant experience.
+		-Boat control -> As a player I want to be able to configure my own keybinds and I want the controls to be responsive with low latency, in order to have a more personalized and pleasant experience.
 		-Power ups -> As a player I want to have powerups that modify the way the game is played, in order to have as different an experience as possible in each run.
 		-Levels -> As I player I want to have different levels in order to get a sense of progress while I´m playing and also to raise the stakes whilst I advance in the game.
 		-Boat sprite -> As I player I want to be able to modify the way my boat looks to avoid a repetitive and dull gameplay.
-		-Difficulty -> As player not having an incrementally more difficult gameplay would make the gaming experience bland and boring. This goes together with the levels functional 							requirement
+		-Difficulty -> As player not having an incrementally more difficult gameplay would make the gaming experience bland and boring. This goes together with the levels functional requirement
 		-Obstacles -> As a player I want to have different obstacles positioned in different places for the game to be challenging and engaging.
 		-Scenery -> As a player I want to experience a visual change once I advances through the levels, to have a notion of progress and risk.
 		-Afterlife -> As a player it would be engaging and fun to have an opportunity to come back if I die, nevertheless this ought to be hard enough for the game to be fair to thee
@@ -19,7 +19,7 @@
 		-Boat stats -> As a player I want to be able to modify the characteristics of the boat that add depth to the way the game is played.
 		-Simon says minigame -> As a player I want to have a minigame inside the main game in order to have a more complete experience.
 		-Loading screens -> As a player I want to have an ejoyable experience whilst I wait for the game to load.
-  		-Stun time -> As a player I would like to have a fair crash system that stuns me the right amount of time in order to have a challenging non-artifficial Miyazaki-From-				Software-Soulslike type difficulty.
+  		-Stun time -> As a player I would like to have a fair crash system that stuns me the right amount of time in order to have a challenging non-artifficial Miyazaki-From-	Software-Soulslike type difficulty.
 ## Non-Functional requirements
 	//Non-functional requirements describe system qualities (HOW IT DOES WHAT IT DOES)
 		-As a game developer I want the game to execute at a flawless 30 fps in order for the experience to be more pleasant park.
