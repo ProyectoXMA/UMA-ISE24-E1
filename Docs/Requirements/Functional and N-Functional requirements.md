@@ -29,5 +29,5 @@
 		-Java language -> As a developer I really really want soo badly to use the Java language, a modern, fast and non-repetitive  object oriented programming language, I am also forced.
 		-LIbraries -> (Por determinar: Juanillo usa libGDX)
  		-Collisions -> As a developer I want the game to have fair hit boxes in order for the game not be frustrating.
-		
+		-Randomness -> Add randomness to obstacles to increase difficulty
   		
