@@ -12,11 +12,11 @@
 		-Obstacles -> As a player I want to have different obstacles positioned in different places for the game to be challenging and engaging.
 		-Scenery -> As a player I want to experience a visual change once I advances through the levels, to have a notion of progress and risk.
 		-Afterlife -> As a player it would be engaging and fun to have an opportunity to come back if I die, nevertheless this ought to be hard enough for the game to be fair to thee
-		-Boat lanes -> Thou shall not fall outside thy lane as it is not in thy interest.
+		-Boat lanes -> As a player I want to have a boat lane in which I should stay during the race.
 		-Rivals -> As a player I want to be competing against other alleged players, in order for the game to have a little of competition.
-		-Penalty -> As a player I want to be punsihed and rewarded accordingly, for the game to have a bit of edge.
+		-Penalty -> As a player I want to be punished and rewarded accordingly, for the game to have a bit of edge.
 		-Exitting the game -> As a player I want to be able to move fast between screens and to exit the game seamlessly in order to avoid annoyance.
-		-Boat stats -> As a player I want to be able to modify the characteristics of the boat that add depth to the way the game is played.
+		-Boat stats -> As a player I want to be able to choose between boats with different characteristics that add depth to the way the game is played.
 		-Simon says minigame -> As a player I want to have a minigame inside the main game in order to have a more complete experience.
 		-Loading screens -> As a player I want to have an ejoyable experience while I wait for the game to load.
   		-Stun time -> As a player I would like to have a fair crash system that stuns me the right amount of time in order to have a challenging non-artifficial Miyazaki-From-	Software-Soulslike type difficulty.
